@@ -10,7 +10,7 @@
 
 [3] Prefix-Tuning：https://arxiv.org/pdf/2101.00190
 
-[4] P-Tuning ：https://arxiv.org/pdf/2103.10385
+[4] P-Tuning：https://arxiv.org/pdf/2103.10385
 
 [5] Prompt Tuning：https://arxiv.org/pdf/2104.08691
 
@@ -18,13 +18,13 @@
 
 [7] LoRA：https://arxiv.org/pdf/2106.09685
 
-[8] AdaLoRA ：https://arxiv.org/pdf/2303.10512
+[8] AdaLoRA：https://arxiv.org/pdf/2303.10512
 
-[9] PiSSA ：https://arxiv.org/abs/2404.02948
+[9] PiSSA：https://arxiv.org/abs/2404.02948
 
 [10] OLoRA： https://arxiv.org/pdf/2406.01775 
 
-[11] LoHa ：https://arxiv.org/pdf/2108.06098
+[11] LoHa：https://arxiv.org/pdf/2108.06098
 
 [12] LoKr：https://arxiv.org/pdf/2309.14859
 
@@ -34,7 +34,7 @@
 
 [15] DoRA：https://arxiv.org/pdf/2402.09353
 
-[16] Adapter tuning ：https://arxiv.org/pdf/1902.00751
+[16] Adapter tuning：https://arxiv.org/pdf/1902.00751
 
 [17] LLM finetuning：https://arxiv.org/pdf/2402.17193
 
@@ -60,15 +60,15 @@
 
 [28] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model：https://arxiv.org/pdf/2405.04434
 
-[29] Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? ：https://arxiv.org/pdf/2405.05904
+[29] Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?：https://arxiv.org/pdf/2405.05904
 
-[30] Knowledge Verification to Nip Hallucination in the Bud ：https://arxiv.org/pdf/2401.10768
+[30] Knowledge Verification to Nip Hallucination in the Bud：https://arxiv.org/pdf/2401.10768
 
 [31] OpenAI, Parameter Space Noise for Exploration：https://arxiv.org/pdf/1706.01905
 
 [32] Reinforcement Learning: An Introduction, 2nd Edition, Richard S. Sutton：http://incompleteideas.net/book/the-book-2nd.html
 
-[33] MuZero ：https://arxiv.org/pdf/1911.08265
+[33] MuZero：https://arxiv.org/pdf/1911.08265
 
 [34] DPG：https://proceedings.mlr.press/v32/silver14.pdf
 
@@ -80,7 +80,7 @@
 
 [38] MAPPO：https://arxiv.org/pdf/2103.01955
 
-[39] QMIX ：https://arxiv.org/pdf/1803.11485
+[39] QMIX：https://arxiv.org/pdf/1803.11485
 
 [40] COMA：https://arxiv.org/pdf/1705.08926
 
@@ -90,7 +90,7 @@
 
 [43] Feudal Reinforcement Learning：https://www.cs.toronto.edu/~fritz/absps/dh93.pdf
 
-[44] Dyna-Q : http://www.incompleteideas.net/papers/sutton-90.pdf
+[44] Dyna-Q：http://www.incompleteideas.net/papers/sutton-90.pdf
 
 [45] POMDP：Optimal control of Markov processes with incomplete state information, https://core.ac.uk/download/pdf/82498456.pdf
 
@@ -110,7 +110,7 @@
 
 [53] John Schulman：https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/
 
-[54] Deep Reinforcement Learning from Human Preferences ：https://arxiv.org/pdf/1706.03741
+[54] Deep Reinforcement Learning from Human Preferences：https://arxiv.org/pdf/1706.03741
 
 [55] Fine-Tuning Language Models from Human Preferences：https://arxiv.org/pdf/1909.08593
 
@@ -140,7 +140,7 @@
 
 [68] lilianweng：https://lilianweng.github.io/posts/2024-11-28-reward-hacking/
 
-[69] SEAL:https://arxiv.org/abs/2408.10270
+[69] SEAL：https://arxiv.org/abs/2408.10270
 
 [70] Reward hacking：https://arxiv.org/abs/2201.03544
 
@@ -160,7 +160,7 @@
 
 [78] Transformers：https://huggingface.co/docs/transformers/index
 
-[79] Prompt Engineering Guide ：https://www.promptingguide.ai/
+[79] Prompt Engineering Guide：https://www.promptingguide.ai/
 
 [80] OpenAI Prompt：https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
 
@@ -186,7 +186,7 @@
 
 [91] Zero-shot-CoT：https://arxiv.org/pdf/2205.11916
 
-[92] langchain ：https://python.langchain.com/docs/
+[92] langchain：https://python.langchain.com/docs/
 
 [93] Contextual RAG：https://www.anthropic.com/news/contextual-retrieval
 
@@ -194,9 +194,9 @@
 
 [95] TD：http://incompleteideas.net/papers/sutton-88-with-erratum.pdf
 
-[96] Hugging Face  PEFT ：https://huggingface.co/docs/peft/index
+[96] Hugging Face  PEFT：https://huggingface.co/docs/peft/index
 
-[97] Byte Latent Transformer ：https://arxiv.org/pdf/2412.09871
+[97] Byte Latent Transformer：https://arxiv.org/pdf/2412.09871
 
 [98] OpenAI Scaling Law：https://arxiv.org/pdf/2001.08361
 
@@ -204,21 +204,21 @@
 
 [100] OpenAI o1 Scaling Law：https://openai.com/index/learning-to-reason-with-llms/
 
-[101] VLMEvalKit ：https://github.com/open-compass/VLMEvalKit
+[101] VLMEvalKit：https://github.com/open-compass/VLMEvalKit
 
-[102] opencompass ：https://github.com/open-compass/opencompass
+[102] opencompass：https://github.com/open-compass/opencompass
 
 [103] ollama：https://github.com/ollama/ollama
 
-[104] mlc-llm ：https://github.com/mlc-ai/mlc-llm
+[104] mlc-llm：https://github.com/mlc-ai/mlc-llm
 
-[105] llama.cpp ：https://github.com/ggerganov/llama.cpp
+[105] llama.cpp：https://github.com/ggerganov/llama.cpp
 
-[106] text-generation-inference ：https://github.com/huggingface/text-generation-inference
+[106] text-generation-inference：https://github.com/huggingface/text-generation-inference
 
-[107] langgraph ：https://github.com/langchain-ai/langgraph
+[107] langgraph：https://github.com/langchain-ai/langgraph
 
-[108] Qwen2.5 ：https://arxiv.org/pdf/2412.15115
+[108] Qwen2.5：https://arxiv.org/pdf/2412.15115
 
 [109] DQN：https://arxiv.org/pdf/1312.5602
 
@@ -226,11 +226,11 @@
 
 [111] Policy Gradient&REINFORCE：https://people.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf
 
-[112] Policy Gradient Theorem ：https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf
+[112] Policy Gradient Theorem：https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf
 
 [113] Hugging Face：https://huggingface.co/
 
-[114] Diverse Beam Search ：https://arxiv.org/pdf/1610.02424
+[114] Diverse Beam Search：https://arxiv.org/pdf/1610.02424
 
 [115] Constrained Beam Search：https://arxiv.org/pdf/1612.00576
 
@@ -252,7 +252,7 @@
 
 [124] DQN + Target Network：https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
 
-[125] POSG ：https://www.khoury.northeastern.edu/home/camato/publications/aaai-SS-04.pdf
+[125] POSG：https://www.khoury.northeastern.edu/home/camato/publications/aaai-SS-04.pdf
 
 [126] IQL：https://web.media.mit.edu/~cynthiab/Readings/tan-MAS-reinfLearn.pdf
 
@@ -268,7 +268,7 @@
 
 [132] Chatbot Arena：https://www.lmarena.ai/
 
-[133] Teacher Forcing ：https://gwern.net/doc/ai/nn/rnn/1989-williams-2.pdf
+[133] Teacher Forcing：https://gwern.net/doc/ai/nn/rnn/1989-williams-2.pdf
 
 [134] GPT-1：https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
 
@@ -290,7 +290,7 @@
 
 [143] rStar：https://arxiv.org/pdf/2408.06195
 
-[144] Scaling LLM Test-Time Compute ：https://arxiv.org/pdf/2408.03314v1
+[144] Scaling LLM Test-Time Compute：https://arxiv.org/pdf/2408.03314v1
 
 [145] LoRA：https://github.com/microsoft/LoRA
 
@@ -338,7 +338,7 @@
 
 [167] Epoch AI, Will we run out of data：https://arxiv.org/pdf/2211.04325v2
 
-[168] Epoch AI ：https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data
+[168] Epoch AI：https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data
 
 [169] A Survey on Data Synthesis and Augmentation：https://arxiv.org/pdf/2410.12896
 
@@ -348,7 +348,7 @@
 
 [172] ReFT：https://arxiv.org/pdf/2401.08967
 
-[173] Reinforcement Fine-Tuning ：https://openai.com/12-days/
+[173] Reinforcement Fine-Tuning：https://openai.com/12-days/
 
 [174] rStar-Math：https://arxiv.org/pdf/2501.04519
 
